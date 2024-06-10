@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_guide">Search</string>
+    <string name="image">Image</string>
+    <string name="tab_layout_description">Followers and Following</string>
+</resources>
